@@ -17,3 +17,18 @@
 | Dafa Achmad Hermawan  | Universitas Negeri Yogyakarta | Cloud Computing |
 | Pramuditha Muhammad Ikhwan  | Universitas Negeri Yogyakarta | Mobile Developer |
 | Zainal Ma'Ruf Abidin  | Universitas Negeri Yogyakarta | Mobile Developer |
+
+## Features
+- Batik Types Scan Detection using AI
+- Batik Products Catalog
+- Batik Products Purchasing
+- Purchasing History
+- User Authentication and Profile Management
+
+## Overview
+[App Photo]
+
+## Documentation
+- [Backend Documentation](https://github.com/Batikan-App/batikan-backend-svc/blob/main/README.md)
+- [Machine Learning Documentation](https://github.com/Batikan-App/batikan-ml/blob/main/README.md)
+- [Android Development](https://github.com/Batikan-App/batikan-android-dev)
