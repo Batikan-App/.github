@@ -26,7 +26,14 @@
 - User Authentication and Profile Management
 
 ## Overview
-[App Photo]
+![image](https://github.com/user-attachments/assets/8d0ae96e-151f-471e-bf73-adafa3e808d0)
+![image](https://github.com/user-attachments/assets/d27a7be7-b594-44cc-8901-6d61318634cc)
+![image](https://github.com/user-attachments/assets/18f029b4-6ac2-483a-bc87-86537d7253ab)
+![image](https://github.com/user-attachments/assets/1f2b59ea-18e1-492b-b9f1-0156bfd74f47)
+![image](https://github.com/user-attachments/assets/485263cc-d643-450b-b7ab-ce77a075d34b)
+![image](https://github.com/user-attachments/assets/f98d9a50-9392-41d0-a124-ae9dd94a9cff)
+![image](https://github.com/user-attachments/assets/ac0de38e-2c22-4e20-a95d-717a3348d169)
+
 
 ## Documentation
 - [Backend Documentation](https://github.com/Batikan-App/batikan-backend-svc/blob/main/README.md)
