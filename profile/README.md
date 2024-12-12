@@ -19,7 +19,7 @@
 | Zainal Ma'Ruf Abidin  | Universitas Negeri Yogyakarta | Mobile Developer |
 
 ## Features
-- Batik Types Scan Detection using AI
+- Batik Scan Recognition using AI
 - Batik Products Catalog
 - Batik Products Purchasing
 - Purchasing History
